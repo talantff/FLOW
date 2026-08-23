@@ -9,7 +9,7 @@ const blockchainInfo: ChannelInfo = {
   subscribersCount: "6 875 subscribers",
   subscribersRaw: 6875,
   description: "Без понтов, без инфоцыганщины.\nПоказываем, как реально зарабатывать на разнице между биржами.\n\n@Alex_Crypto_Blockchain — наставник, который не продаёт курс, а даёт связку.",
-  inviteLink: "tg://join?invite=Y_-Ua-WXl8xlYTJi",
+  inviteLink: "tg://join?invite=4llN95n1SbE0ZWEy",
   additionalText: "You are invited to the channel Blockchain Alliance📈. Click above to join."
 };
 
@@ -45,7 +45,7 @@ export default function TelegramPage() {
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText("https://t.me/+Y_-Ua-WXl8xlYTJi");
+    navigator.clipboard.writeText("https://t.me/+4llN95n1SbE0ZWEy");
     triggerToast("Link copied to clipboard! 📋");
   };
 
@@ -180,7 +180,7 @@ export default function TelegramPage() {
                 </a>
 
                 <a
-                  href="https://t.me/+Y_-Ua-WXl8xlYTJi"
+                  href="https://t.me/+4llN95n1SbE0ZWEy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-2.5 rounded-xl bg-transparent hover:bg-[#1b2632] text-center font-medium text-xs text-[#4cc4ff] border border-[#222f3d] transition-all flex items-center justify-center gap-1.5"
